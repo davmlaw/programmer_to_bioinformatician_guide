@@ -65,8 +65,8 @@ Thinking about the skill tradeoffs, some jobs have a minimum skills, eg (made up
   *Minimum: BIO: 3, PRO: 3, TOOL: 4*.
 
 - **Tool Optimisation:**  
-  Making an existing tool run faster (eg rewriting an existing script into a fast polished tool)
-  *Minimum: BIO: 1, PRO: 6, TOOL: 1*.
+  Making an existing tool run faster, e.g. rewriting an existing script into a fast polished tool   
+  *Minimum: BIO: 1, PRO: 6, TOOL: 1*
 
 
 ## 5. Team Structure
