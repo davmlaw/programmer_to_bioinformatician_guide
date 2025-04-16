@@ -18,7 +18,7 @@ My personal tips to enter the field. I worked as a professional programmer for 7
 - **Why Use It?**  
   It’s a fun way to learn biology basics and improve your skills. The challenges start easy and ramp up in difficulty. If you don’t find it engaging, bioinformatics might not be for you.
 
-### Basic Biology
+### Basic Molecular Biology
 - **Learning the Fundamentals:**  
   Biology may seem full of memorization, but its core concepts—cells, genetics, DNA, RNA, and proteins—are accessible.
 - **Resources:**  
@@ -115,8 +115,6 @@ As you gain more experience, you can start to come up with your own ideas, and c
 - **Pipelines:**  
   For automated workflows, familiarize yourself with workflow languages like SnakeMake or NextFlow.
 
----
-
 ## 7. Technology and Tools
 
 ### Wet Lab Technology
@@ -145,8 +143,6 @@ As you gain more experience, you can start to come up with your own ideas, and c
 - **Practice:**  
   Download public datasets, examine files on the command line, and experiment with open-source libraries to iterate over them and perform basic analysis (e.g. counting variant types in a VCF).
 
----
-
 ## 8. Sub-Domains & Specialization
 
 - **Focus Areas:**  
@@ -154,8 +150,6 @@ As you gain more experience, you can start to come up with your own ideas, and c
   
 - **Clinical Emphasis:**  
   Note that most clinical work currently centers on variant calling, though RNAseq is becoming more common.
-
----
 
 ## 9. Building Connections & Engaging with Labs
 
@@ -173,8 +167,6 @@ As you gain more experience, you can start to come up with your own ideas, and c
 - **Free Analysis Offer:**  
   Some labs have unprocessed data. Offering to analyze this data—while being aware that you might be seen as a student—can be a way to get your foot in the door.
 
----
-
 ## 10. Building a Resume
 
 - **Tailor Your Skills:**  
@@ -183,9 +175,7 @@ As you gain more experience, you can start to come up with your own ideas, and c
 - **Portfolio:**  
   Maintain a GitHub account to showcase your projects. Contributing to open-source tools (fixing bugs, adding features) demonstrates both technical skill and teamwork. Make sure you understand the code you modify and include unit tests.
 
----
-
 ## 11. Further Reading
 
-- [I Should Have Loved Biology](https://jsomers.net/i-should-have-loved-biology/)
+- [I Should Have Loved Biology](https://jsomers.net/i-should-have-loved-biology/) - biology from a programming point of view
 - [Farewell to Bioinformatics](https://madhadron.com/science/farewell_to_bioinformatics.html) - for an alternative view - someone who left bioinformatics to work on programming
