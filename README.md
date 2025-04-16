@@ -35,14 +35,18 @@ There are three primary entry points:
 2. **Train as a Biologist and Learn to Code:** (Masters, PhD in biology, then develop coding skills)
 3. **Programmer with Self-Education in Biology:** (Bachelor’s plus self-study)
 
-Think of it like role-playing stats - some made up people could have:
+Think of it like role-playing stats of 3 skills: Biology (BIO), Programming (PRO) and Bioinformatics tools, technology and file formats (TOOL).
 
-- **PhD biologist + 6 months self-taught programming:** BIO: 7, PRO: 1  
-- **Masters bioinformatician:** BIO: 4, PRO: 4  
-- **Professional programmer:** BIO: 0, PRO: 7  
-- **Programmer with 2 months self-education:** BIO: 1, PRO: 7
+Some made up people could have:
 
-When hiring, you are generally trading off bio vs informatics as someone with high skills in both is not applying for your job.
+| Profile                                               | BIO | PRO | TOOL |
+|-------------------------------------------------------|-----|-----|------|
+| **PhD Biologist with 6 months self-taught programming** | 7   | 1   | 2    |
+| **Masters Bioinformatician**                          | 4   | 4   | 6    |
+| **Professional Programmer (no biology background)**   | 0   | 8   | 0    |
+| **Programmer with 2 months self-education**  | 1   | 8   | 2    |
+
+When hiring, you are generally trading off skills in 1 area vs another, as you can't afford someone with maxed out stats!
 
 ## 4. Bioinformatics roles
 
@@ -50,19 +54,19 @@ Thinking about the skill tradeoffs, some jobs have a minimum skills, eg (made up
 
 - **Individual Analyses for a Lab:**  
   A lab might perform a standard DNA sequencing assay (variant calling, RNAseq, ChiPseq) and then use mapping, QC, and analysis to produce spreadsheets/graphs.  
-  *Minimum: BIO: 5, PRO: 1*
+  *Minimum: BIO: 5, PRO: 1, TOOL: 2*
 
 - **Building Automated Pipelines:**  
   Example: A genomics facility processing 100 samples a week.  
-  *Minimum: BIO: 2, PRO: 4*
+  *Minimum: BIO: 1, PRO: 2, TOOL: 5*
 
 - **Tool Development:**  
   Creating a new tool for other bioinformaticians.  
-  *Minimum: BIO: 3, PRO: 3*.
+  *Minimum: BIO: 3, PRO: 3, TOOL: 4*.
 
 - **Tool Optimisation:**  
   Making an existing tool run faster (eg rewriting an existing script into a fast polished tool)
-  *Minimum: BIO: 1, PRO: 5*.
+  *Minimum: BIO: 1, PRO: 6, TOOL: 1*.
 
 
 ## 5. Team Structure
