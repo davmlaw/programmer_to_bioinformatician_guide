@@ -1,6 +1,6 @@
 # How to Get a Job as a Bioinformatician as a Programmer
 
-My personal tips to enter the field. I worked as a professional programmer for 7 years (mostly Java) before starting as a bioinformatician in 2011
+My personal tips to enter the field. I worked as a professional programmer for 7 years (mostly Java) before starting as a bioinformatician in 2011. It was probably much easier then as it was all pretty new. Good luck!
 
 ## 1. Job Market
 
