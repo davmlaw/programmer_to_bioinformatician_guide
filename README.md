@@ -30,33 +30,38 @@ My personal tips to enter the field. I worked as a professional programmer for 7
 ## 3. Bio vs. Informatics Trade-Offs
 
 There are three primary entry points:
+
 1. **Train as a Bioinformatician:** (Masters, PhD)
 2. **Train as a Biologist and Learn to Code:** (Masters, PhD in biology, then develop coding skills)
 3. **Programmer with Self-Education in Biology:** (Bachelor’s plus self-study)
 
-Think of it like role-playing stats:
-- **PhD biologist + 6 months self-taught programming:** BIO: 8, PRO: 1  
+Think of it like role-playing stats - some made up people could have:
+
+- **PhD biologist + 6 months self-taught programming:** BIO: 7, PRO: 1  
 - **Masters bioinformatician:** BIO: 4, PRO: 4  
-- **Professional programmer:** BIO: 0, PRO: 8  
-- **Programmer with 2 months self-education:** BIO: 1, PRO: 8
+- **Professional programmer:** BIO: 0, PRO: 7  
+- **Programmer with 2 months self-education:** BIO: 1, PRO: 7
 
----
+When hiring, you are generally trading off bio vs informatics as someone with high skills in both is not applying for your job.
 
-## 4. Types of Bioinformatics Jobs
-
-The term “bioinformatician” covers roles with varying minimum skills in biology (BIO) and programming (PRO):
+But some jobs have a minimum skills, eg (made up examples):
 
 - **Individual Analyses for a Lab:**  
   A lab might perform a standard DNA sequencing assay (variant calling, RNAseq, ChiPseq) and then use mapping, QC, and analysis to produce spreadsheets/graphs.  
-  *Minimum: BIO: 3, PRO: 1*
+  *Minimum: BIO: 4, PRO: 1*
 
 - **Building Automated Pipelines:**  
   Example: A genomics facility processing 100 samples a week.  
-  *Minimum: BIO: 1, PRO: 3*
+  *Minimum: BIO: 2, PRO: 3*
 
 - **Tool Development:**  
-  Creating tools for other bioinformaticians.  
-  *Minimum: BIO: 3, PRO: 5*
+  Creating a new tool for other bioinformaticians.  
+  *Minimum: BIO: 4, PRO: 4*.
+
+- **Tool Optimisation:**  
+  Making an existing tool run faster (eg rewriting an existing script into a fast polished tool)
+  *Minimum: BIO: 1, PRO: 6*.
+
 
 ## 5. Team Structure
 
@@ -73,7 +78,7 @@ As you gain more experience, you can start to come up with your own ideas, and c
 - **Roles and Responsibilities:**  
   In this setting, the lab head acts as the project manager, setting the overall scientific vision, while a lead author (often a postdoc) functions like a business analyst by providing high-level directives—typically along the lines of, "apply a similar analysis as in this paper to our data." However, detailed technical guidance is usually lacking.
 - **Downsides:**  
-  The main challenge in this role is the lack of in-house support. Without other bioinformaticians to consult, you may find yourself isolated, missing out on the opportunity to share ideas, learn new techniques, and receive mentorship.
+  Lack of in-house support. Without other bioinformaticians to consult, you may find yourself isolated, missing out on the opportunity to share ideas, learn new techniques, and receive mentorship.
 - **Recommendations:**  
   If you end up as the sole bioinformatician, prioritize reaching out beyond your organization. Attend local talks, join online communities, and build a network with other bioinformaticians to enhance your skills and receive peer support.
 
