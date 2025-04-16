@@ -44,23 +44,25 @@ Think of it like role-playing stats - some made up people could have:
 
 When hiring, you are generally trading off bio vs informatics as someone with high skills in both is not applying for your job.
 
-But some jobs have a minimum skills, eg (made up examples):
+## 4. Bioinformatics roles
+
+Thinking about the skill tradeoffs, some jobs have a minimum skills, eg (made up examples):
 
 - **Individual Analyses for a Lab:**  
   A lab might perform a standard DNA sequencing assay (variant calling, RNAseq, ChiPseq) and then use mapping, QC, and analysis to produce spreadsheets/graphs.  
-  *Minimum: BIO: 4, PRO: 1*
+  *Minimum: BIO: 5, PRO: 1*
 
 - **Building Automated Pipelines:**  
   Example: A genomics facility processing 100 samples a week.  
-  *Minimum: BIO: 2, PRO: 3*
+  *Minimum: BIO: 2, PRO: 4*
 
 - **Tool Development:**  
   Creating a new tool for other bioinformaticians.  
-  *Minimum: BIO: 4, PRO: 4*.
+  *Minimum: BIO: 3, PRO: 3*.
 
 - **Tool Optimisation:**  
   Making an existing tool run faster (eg rewriting an existing script into a fast polished tool)
-  *Minimum: BIO: 1, PRO: 6*.
+  *Minimum: BIO: 1, PRO: 5*.
 
 
 ## 5. Team Structure
