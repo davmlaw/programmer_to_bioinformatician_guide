@@ -1,8 +1,6 @@
 # How to Get a Job as a Bioinformatician as a Programmer
 
-I worked as a professional programmer for 7 years (mostly Java) before starting as a bioinformatician in 2011. Here’s a guide with key aspects to consider.
-
----
+My personal tips to enter the field. I worked as a professional programmer for 7 years (mostly Java) before starting as a bioinformatician in 2011
 
 ## 1. Job Market
 
@@ -11,8 +9,6 @@ I worked as a professional programmer for 7 years (mostly Java) before starting 
   
 - **Upsides:**  
   You get more interesting work, greater freedom, and potentially higher job satisfaction.
-
----
 
 ## 2. Learning Resources
 
@@ -30,8 +26,6 @@ I worked as a professional programmer for 7 years (mostly Java) before starting 
   - Start with a second-hand first-year textbook on biology (covering cells and intro genetics) and then skim a more advanced genetics book.
 - **Key Terms:**  
   Familiarize yourself with nucleus, chromatin, transcription factors, DNA polymerase, exons, splicing, mRNA, transcription, ribosomes, and protein complexes.
-
----
 
 ## 3. Bio vs. Informatics Trade-Offs
 
@@ -64,23 +58,36 @@ The term “bioinformatician” covers roles with varying minimum skills in biol
   Creating tools for other bioinformaticians.  
   *Minimum: BIO: 3, PRO: 5*
 
-In larger teams, roles can be more specialized. As a programmer turned bioinformatician, you might do best in larger teams or projects where you’re given clear instructions (e.g. machine learning analysis) rather than roles that require deep biological inference.
-
----
-
 ## 5. Team Structure
 
-- **Small Teams/Startups:**  
-  Everyone wears multiple hats. Programmers might even handle design.
+In smaller teams, everyone has to wear multiple hats, eg programmers in a startup may handle design, while in larger teams there is more division of roles (project manager, business analyist etc)
+
+In larger teams, roles can be more specialized. As a programmer turned bioinformatician, you might do best in larger teams or projects where you’re given clear instructions rather than roles that require deep biological inference.
+
+As you gain more experience, you can start to come up with your own ideas, and chase what you find interesting. But it usually takes quite a few years until you know where you can do novel interesting work (eg how can I use a new technique to solve a useful problem better/faster than anyone else)
+
+### Sole Bioinformatician
+
+- **Funding and Environment:**  
+  Funding generally comes from grants. Lab heads secure the funds for experiments, and you’ll be analyzing the resulting data from wet lab work.
+- **Roles and Responsibilities:**  
+  In this setting, the lab head acts as the project manager, setting the overall scientific vision, while a lead author (often a postdoc) functions like a business analyst by providing high-level directives—typically along the lines of, "apply a similar analysis as in this paper to our data." However, detailed technical guidance is usually lacking.
+- **Downsides:**  
+  The main challenge in this role is the lack of in-house support. Without other bioinformaticians to consult, you may find yourself isolated, missing out on the opportunity to share ideas, learn new techniques, and receive mentorship.
+- **Recommendations:**  
+  If you end up as the sole bioinformatician, prioritize reaching out beyond your organization. Attend local talks, join online communities, and build a network with other bioinformaticians to enhance your skills and receive peer support.
+
+### Bioinformatician in a Large Team or Facility
+
+- **Structured Environment:**  
+  Larger teams or facilities usually have a clearer organizational structure, with defined roles and workflow processes.
+- **Mentorship and Guidance:**  
+  In these settings, a senior bioinformatician or technical lead is often available to provide advice and guidance, allowing you to refine your skills and even take on more niche roles.
+- **Specialization Opportunities:**  
+  The structure allows for role specialization—for example, focusing on building automated pipelines, developing new tools, or performing advanced data analysis—so you can deepen expertise in your chosen area.
+- **Team Support and Collaboration:**  
+  With more colleagues in the mix, you benefit from regular team meetings, in-house training, and collaborative troubleshooting, which not only accelerates learning but also helps spread best practices across projects.
   
-- **Larger Corporates:**  
-  Roles are compartmentalized (project managers, business analysts, etc.). You’ll often get a Jira ticket with “do X analysis on dataset Y” since you might not yet have the experience to decide on the analytical approach.
-
-- **Funding Reality:**  
-  Funding generally comes from grants. Lab heads secure money for experiments, and you’ll be analyzing the resulting data from wet lab work.
-
----
-
 ## 6. Essential Skills
 
 ### Data Processing
@@ -174,4 +181,4 @@ In larger teams, roles can be more specialized. As a programmer turned bioinform
 ## 11. Further Reading
 
 - [I Should Have Loved Biology](https://jsomers.net/i-should-have-loved-biology/)
-- [Farewell to Bioinformatics](https://madhadron.com/science/farewell_to_bioinformatics.html)
+- [Farewell to Bioinformatics](https://madhadron.com/science/farewell_to_bioinformatics.html) - for an alternative view - someone who left bioinformatics to work on programming
