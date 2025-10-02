@@ -105,8 +105,8 @@ Thinking about the skill tradeoffs, some jobs have a minimum skills, eg (made up
 ### Command Line Tools
 - **Mapping/Alignment:**  
   E.g., bwa mem.
-- **Working with BAM Files:**  
-  E.g., samtools.
+- **Working with BAM, Bed, VCF Files:**  
+  E.g., samtools, bedrooms, bcftools
 - **Pipelines:**  
   Look up “variant calling pipeline best practices” or “RNAseq differential expression pipeline” for tutorials on tools like GATK, vardict, STAR aligner, and DeSeq.
 
@@ -135,18 +135,18 @@ Thinking about the skill tradeoffs, some jobs have a minimum skills, eg (made up
 - **Sample Questions:**  
   - “If someone was joining your lab and could read one review paper to get up to speed, what would it be?”
   - “Can you recommend a paper that demonstrates the technology/assay/analysis you use?”
-  - “Which Wikipedia page for one disease and five genes should I read to understand your lab’s focus?”
+  - “Which Wikipedia page for one disease and a few genes should I read to understand your lab’s focus?”
 
 - **Networking:**  
   Joining bioinformatics Slack channels and attending local bioinfo talks can help you build connections and learn about opportunities.
   
 - **Free Analysis Offer:**  
-  Some labs have unprocessed data. Offering to analyze this data—while being aware that you might be seen as a student—can be a way to get your foot in the door.
+  Some labs have unprocessed data. Offering to analyze this data, can be a way to get your foot in the door.
 
 ## 9. Building a Resume
 
 - **Tailor Your Skills:**  
-  Customize your resume based on the jobs available. For clinical roles, emphasize human variant calling; for agricultural research, show knowledge in that area.
+  Customize your resume based on the jobs available. E.G. for clinical roles, emphasize human variant calling
   
 - **Portfolio:**  
   Maintain a GitHub account to showcase your projects. Contributing to open-source tools (fixing bugs, adding features) demonstrates both technical skill and teamwork. Make sure you understand the code you modify and include unit tests.
@@ -155,7 +155,7 @@ Thinking about the skill tradeoffs, some jobs have a minimum skills, eg (made up
 
 In smaller teams, everyone has to wear multiple hats, eg programmers in a startup may handle design, while in larger teams there is more division of roles (project manager, business analyist etc)
 
-In larger teams, roles can be more specialized. As a programmer turned bioinformatician, you might do best in larger teams or projects where you’re given clear instructions rather than roles that require deep biological inference.
+In larger teams, roles can be more specialized. As a programmer turned bioinformatician, you might do best inutially in larger teams or projects where you’re given clear instructions rather than roles that require deep biological inference.
 
 As you gain more experience, you can start to come up with your own ideas, and chase what you find interesting. But it usually takes quite a few years until you know where you can do novel interesting work (eg how can I use a new technique to solve a useful problem better/faster than anyone else)
 
